@@ -1,29 +1,62 @@
-# Pirat-Flix
+# Pirate Flix 🎬🏴‍☠️
 
-This template should help get you started developing with Vue 3 in Vite.
+¡Bienvenido a Pirate Flix! Una aplicación estilo Netflix/Disney/Paramount/Etc para gestionar y disfrutar de tu propia colección de películas y series en casa. Todo es open-source y pensado para ser utilizado localmente, ¡así que sos libre de personalizarlo a tu gusto y agregar los videos que vos quieras!
 
-## Recommended IDE Setup
+## Características ✨
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **Fácil de usar**: Interfaz intuitiva y amigable.
+- **Organiza tu contenido**: Clasifica tus películas y series.
+- **Reproducción local**: Carga tus propios archivos multimedia.
+- **Open-source**: ¡Personalízalo y mejóralo!
 
-## Customize configuration
+## Capturas de pantalla 📸
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+¡Agrega aquí algunas capturas de pantalla de tu aplicación en funcionamiento!
 
-## Project Setup
+## Instalación 🚀
 
-```sh
-npm install
-```
+Sigue estos pasos para poner en marcha PirateFlix en tu máquina local:
 
-### Compile and Hot-Reload for Development
+1. **Clona el repositorio**:
+    ```sh
+    git clone https://github.com/Masterez-1/PiratStraming_ARG.git
+    ```
 
-```sh
-npm run dev
-```
+2. **Navega al directorio del proyecto**:
+    ```sh
+    cd PiratStraming_ARG
+    ```
 
-### Compile and Minify for Production
+3. **Instala las dependencias**:
+    ```sh
+    npm install
+    ```
 
-```sh
-npm run build
-```
+4. **Ejecuta la aplicación**:
+    ```sh
+    npm run serve
+    ```
+
+## Uso 🛠️
+
+- Carga tus videos a través de la interfaz.
+- Explora y reproduce tu contenido desde la comodidad de tu hogar.
+- Código 100% Legible y con comentarios
+
+## Contribuciones 🤝
+
+¡Las contribuciones son bienvenidas! Sos libre de abrir issues o pull requests. Acá hay algunas formas en que puedes contribuir:
+
+- Reportar bugs 🐛
+- Sugerir nuevas características 🌟
+- Mejorar la documentación 📚
+- Enviar pull requests 🛠️
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+
+---
+
+¡Gracias por usar Pirate Flix! Disfruta de tus videos favoritos a tu manera. 🎥🍿🧉
+
