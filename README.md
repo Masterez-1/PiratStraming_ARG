@@ -11,7 +11,8 @@
 
 ## Capturas de pantalla 📸
 
-¡Agrega aquí algunas capturas de pantalla de tu aplicación en funcionamiento!
+![CapturaPirateFlix](https://cdn.discordapp.com/attachments/754193257205858315/1321924264760443002/image.png?ex=676f0168&is=676dafe8&hm=c28614530991f28442fa387eb6f9b7089117d01f41278e4e21ab392d2799ca77&)
+![CapturaPirateFlixReproductor](https://cdn.discordapp.com/attachments/754193257205858315/1321924593211936819/image.png?ex=676f01b7&is=676db037&hm=3157036403edab78e8d390f755d30557d8e85187e83cd349a12c89e4e16ec0aa&)
 
 ## Instalación 🚀
 
