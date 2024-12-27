@@ -7,7 +7,6 @@
       <button @click="playVideo" class="bg-blue-600 hover:bg-blue-500 text-white py-2 px-6 rounded-lg">
         Reproducir
       </button>
-
     </div>
   </div>
 </template>

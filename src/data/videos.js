@@ -5,7 +5,7 @@ export const movies = [
     description: "Un juez tiene dudas acerca de los planes de un oficial de justicia recientemente retirado que intenta descubrir al culpable de la violación y el asesinato de una joven, crimen ocurrido varias décadas atrás.",
     thumbnail: "/images/secretodetusojos.jpg",
     src: "/videos/pagina.mp4",
-    category: "Aventura",
+    category: "Suspenso",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const movies = [
     description: "Sean Boswell siempre se ha sentido como un intruso, pero él se define a sí mismo a través de sus victorias como corredor callejero de autos. Su pasatiempo lo vuelve impopular con las autoridades, así que se va a vivir con su padre a Japón. Una vez allá, y aún más enajenado, Sean descubre un nuevo deporte emocionante, pero peligroso. Las apuestas son muy altas cuando Sean se enfrenta al campeón local y se enamora de su novia.",
     thumbnail: "/images/drift.jpg",
     src: "/videos/pagina.mp4",
-    category: "Aventura",
+    category: "Accion",
   },
 ];
 
@@ -35,7 +35,7 @@ export const documentaries = [
     description: "Un documental inspirador.",
     thumbnail: "/images/argentina1975.jpg",
     src: "/videos/pagina.mp4",
-    category: "Educación",
+    category: "Documental",
   },
 ];
 

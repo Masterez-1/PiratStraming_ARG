@@ -1,31 +1,14 @@
 <template>
   <div id="app" class="bg-gray-900 text-white min-h-screen">
     <Header />
-    <Banner :video="featuredVideo" />
-    <main class="mt-8">
-      <CarouselSection
-        :title="'Películas'"
-        :videos="movies"
-        @play="playVideo"
-      />
-      <CarouselSection
-        :title="'Series'"
-        :videos="series"
-        @play="playVideo"
-      />
-      <CarouselSection
-        :title="'Documentales'"
-        :videos="documentaries"
-        @play="playVideo"
-      />
+    <Banner :video="featuredVideo" @play-video="playVideo" />
+    <main class="mt-8 px-4 md:px-8 lg:px-16">
+      <CarouselSection :title="'Películas'" :videos="movies" @play="playVideo" />
+      <CarouselSection :title="'Series'" :videos="series" @play="playVideo" />
+      <CarouselSection :title="'Documentales'" :videos="documentaries" @play="playVideo" />
     </main>
     <Footer />
-    <VideoPlayer
-      v-if="isModalOpen"
-      :isOpen="isModalOpen"
-      :video="activeVideo"
-      @close="isModalOpen = false"
-    />
+    <VideoPlayer v-if="isModalOpen" :isOpen="isModalOpen" :video="activeVideo" @close="isModalOpen = false" />
   </div>
 </template>
 
